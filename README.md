@@ -31,9 +31,14 @@ Eyelids are closed
 Eyeballs are no longer visible
 The bottom and upper eyelashes connect
 
+###Results of eye blink model 
+![Blink Detection Model](https://github.com/user-attachments/assets/924e1b8c-4ef2-4a43-a1f9-9fea0fb5cba9)
 
-## 2. EyeGaze Detection
+## EyeGaze Detection
 Eyegaze detection, also known as eye tracking, is a technology that enables the tracking and analysis of eye movements and gaze direction. Eyegaze detection systems typically use cameras and infrared sensors to capture eye movements, and sophisticated algorithms to analyze the data. The main goal of eyegaze detection is to determine where a person is looking, which can provide valuable insights into their visual attention and cognitive processes. It has various applications in different fields, including human-computer interaction, psychology, neuroscience, market research, and assistive technology.
+
+###Results of eye Gaze model 
+![Gaze Detection Model](https://github.com/user-attachments/assets/ab7a7f43-761c-415d-84ad-f0e91a1e2e4a)
 
 ## DATA SETS: 
 Kaggle eyeblink dataset: https://www.kaggle.com/datasets/nikospetrellis/nitymed.
