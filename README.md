@@ -25,3 +25,6 @@ Right eye points: (42, 43, 44, 45, 46, 47)
 
 Kaggle eyeblink dataset:   https://www.kaggle.com/datasets/nikospetrellis/nitymed
 Eyeblink using CNN: https://github.com/kairess/eye_blink_detector
+Eye gaze data set kaggle : https://www.kaggle.com/datasets/4quant/eye-gaze 
+Gaze tracking library: https://github.com/antoinelame/GazeTracking 
+
