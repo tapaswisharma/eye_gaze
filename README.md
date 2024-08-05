@@ -47,6 +47,11 @@ We also compared "CNN models (80.7% accuracy) and KNN (94.1%) model for eye trac
 Among CNN architectures, MobileNet-V3 showed the lowest training MSE (0.5532), while LeNet-5 had the highest (15.6238). Training time varied, with LeNet-5 being the shortest due to its low complexity. Despite having fewer parameters, MobileNet-V3 and ShuffleNet-V2 took longer to train due to their convolutional layers. TensorFlow and TensorFlow Lite were used to evaluate testing performance, with TFLite models showing minimal performance loss (highest being 5.49% in MobileNet-V3)."
 
 
+# UI:
+
+![keyboard](https://github.com/user-attachments/assets/b12fa420-5ef3-4e31-b0c1-49b13f2a3c78)
+
+
 ## DATA SETS: 
 Kaggle eyeblink dataset: https://www.kaggle.com/datasets/nikospetrellis/nitymed.
 Eyeblink using CNN: https://github.com/kairess/eye_blink_detector.
