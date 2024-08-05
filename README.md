@@ -23,11 +23,23 @@ Left eye points: (36, 37, 38, 39, 40, 41)
 Right eye points: (42, 43, 44, 45, 46, 47)
 
 
+## Eyeblink detection
+Eyeblink detection refers to identifying and quantifying the occurrence of blinks in a person's eye movements.
+
+Blinking occurs when:-
+Eyelids are closed
+Eyeballs are no longer visible
+The bottom and upper eyelashes connect
+
+
+## 2. EyeGaze Detection
+Eyegaze detection, also known as eye tracking, is a technology that enables the tracking and analysis of eye movements and gaze direction. Eyegaze detection systems typically use cameras and infrared sensors to capture eye movements, and sophisticated algorithms to analyze the data. The main goal of eyegaze detection is to determine where a person is looking, which can provide valuable insights into their visual attention and cognitive processes. It has various applications in different fields, including human-computer interaction, psychology, neuroscience, market research, and assistive technology.
+
 ## DATA SETS: 
-
-
 Kaggle eyeblink dataset: https://www.kaggle.com/datasets/nikospetrellis/nitymed.
 Eyeblink using CNN: https://github.com/kairess/eye_blink_detector.
 Eye gaze data set kaggle: https://www.kaggle.com/datasets/4quant/eye-gaze. 
 Gaze tracking library: https://github.com/antoinelame/GazeTracking.
+
+
 
