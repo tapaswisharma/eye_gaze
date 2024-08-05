@@ -5,10 +5,10 @@ This study developed an eye-controlled virtual keyboard for differently-abled in
 
 
 
-#Requirements :
+##Requirements :
 
-1.OpenCV (cv2)
-2.math (hypot)
-3.NumPy (numpy)
-4.Dlib (dlib)
-5.Pyglet (pyglet)
+1.OpenCV (cv2).
+2.math (hypot).
+3.NumPy (numpy).
+4.Dlib (dlib).
+5.Pyglet (pyglet).
