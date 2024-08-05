@@ -31,14 +31,21 @@ Eyelids are closed
 Eyeballs are no longer visible
 The bottom and upper eyelashes connect
 
-###Results of eye blink model 
+### Results of eye blink model 
 ![Blink Detection Model](https://github.com/user-attachments/assets/924e1b8c-4ef2-4a43-a1f9-9fea0fb5cba9)
 
 ## EyeGaze Detection
 Eyegaze detection, also known as eye tracking, is a technology that enables the tracking and analysis of eye movements and gaze direction. Eyegaze detection systems typically use cameras and infrared sensors to capture eye movements, and sophisticated algorithms to analyze the data. The main goal of eyegaze detection is to determine where a person is looking, which can provide valuable insights into their visual attention and cognitive processes. It has various applications in different fields, including human-computer interaction, psychology, neuroscience, market research, and assistive technology.
 
-###Results of eye Gaze model 
+### Results of eye Gaze model 
 ![Gaze Detection Model](https://github.com/user-attachments/assets/ab7a7f43-761c-415d-84ad-f0e91a1e2e4a)
+
+
+### Conclusion :
+
+We also compared "CNN models (80.7% accuracy) and KNN (94.1%) model for eye tracking.
+Among CNN architectures, MobileNet-V3 showed the lowest training MSE (0.5532), while LeNet-5 had the highest (15.6238). Training time varied, with LeNet-5 being the shortest due to its low complexity. Despite having fewer parameters, MobileNet-V3 and ShuffleNet-V2 took longer to train due to their convolutional layers. TensorFlow and TensorFlow Lite were used to evaluate testing performance, with TFLite models showing minimal performance loss (highest being 5.49% in MobileNet-V3)."
+
 
 ## DATA SETS: 
 Kaggle eyeblink dataset: https://www.kaggle.com/datasets/nikospetrellis/nitymed.
