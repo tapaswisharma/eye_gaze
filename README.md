@@ -5,7 +5,7 @@ This study developed an eye-controlled virtual keyboard for differently-abled in
 
 
 
-##REQUIREMENTS:
+## REQUIREMENTS:
 
 1.OpenCV (cv2).
 2.math (hypot).
@@ -13,22 +13,22 @@ This study developed an eye-controlled virtual keyboard for differently-abled in
 4.Dlib (dlib).
 5.Pyglet (pyglet).
 
-##flowchart:
-<img src ="https://github.com/user-attachments/assets/b6b0a50c-ce12-47ad-99cc-eb5c2642d82e.type" width= "500" height="500">
+## flowchart:
 
 
 
-##EYE POINTS:
+
+## EYE POINTS:
 
 Left eye points: (36, 37, 38, 39, 40, 41)
 Right eye points: (42, 43, 44, 45, 46, 47)
 
 
-##DATA SETS: 
+## DATA SETS: 
 
 
-Kaggle eyeblink dataset:   https://www.kaggle.com/datasets/nikospetrellis/nitymed
-Eyeblink using CNN: https://github.com/kairess/eye_blink_detector
-Eye gaze data set kaggle : https://www.kaggle.com/datasets/4quant/eye-gaze 
-Gaze tracking library: https://github.com/antoinelame/GazeTracking 
+Kaggle eyeblink dataset: https://www.kaggle.com/datasets/nikospetrellis/nitymed.
+Eyeblink using CNN: https://github.com/kairess/eye_blink_detector.
+Eye gaze data set kaggle: https://www.kaggle.com/datasets/4quant/eye-gaze. 
+Gaze tracking library: https://github.com/antoinelame/GazeTracking.
 
