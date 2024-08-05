@@ -13,6 +13,8 @@ This study developed an eye-controlled virtual keyboard for differently-abled in
 4.Dlib (dlib).
 5.Pyglet (pyglet).
 
+##flowchart: ![flow chart ](https://github.com/user-attachments/assets/b6b0a50c-ce12-47ad-99cc-eb5c2642d82e)
+
 
 ##EYE POINTS:
 
