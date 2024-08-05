@@ -17,6 +17,7 @@ This study developed an eye-controlled virtual keyboard for differently-abled in
 ![flow chart ](https://github.com/user-attachments/assets/b6b0a50c-ce12-47ad-99cc-eb5c2642d82e)
 
 ## EYE POINTS:
+![landmarks_points](https://github.com/user-attachments/assets/6678eb7e-aec0-4e6f-8ebf-50c3b0bc54b3)
 
 Left eye points: (36, 37, 38, 39, 40, 41)
 Right eye points: (42, 43, 44, 45, 46, 47)
